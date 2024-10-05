@@ -1,4 +1,3 @@
-
 # Sistema de Control Ocular con OpenCV y MediaPipe
 
 Este proyecto implementa un sistema de control ocular que permite mover el cursor del ratón y hacer clic utilizando el movimiento de los ojos y los parpadeos. Utiliza OpenCV para la captura de video, MediaPipe para el reconocimiento de rostros y pyautogui para controlar el ratón.
@@ -79,3 +78,7 @@ Esto abrirá una ventana donde se mostrará el video capturado de la cámara con
 ## Licencia
 
 Este proyecto está bajo la licencia MIT. Puedes usarlo libremente con fines educativos o personales, pero el autor no se responsabiliza por el mal uso de este código.
+=======
+# TrackEyes
+Eye Tracking Mouse Controller
+
